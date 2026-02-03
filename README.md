@@ -1,2 +1,1 @@
-> Note:
-> This repository is a collection of most of the config files I use for my Linux enviornment, and other utilities.
+This repository contains configuration files and tools I use for my linux/unix enviorenment.
