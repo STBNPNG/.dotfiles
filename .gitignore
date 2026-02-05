@@ -1,1 +1,4 @@
+# ignore requirements
 bin-req.txt
+# ignore tests
+tests/
