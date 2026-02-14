@@ -1,4 +1,2 @@
 cd 
-ls 
-cp 
-mv
+{ls,cp,mv,mkdir,rm,echo,find,grep}
